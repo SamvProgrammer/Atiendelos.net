@@ -1,0 +1,159 @@
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.exe.config
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.exe
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.pdb
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\Npgsql.dll
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\Npgsql.pdb
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\Npgsql.xml
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.csprojResolveAssemblyReference.cache
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.Properties.Resources.resources
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.csproj.GenerateResource.Cache
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.exe
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.pdb
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\System.ValueTuple.dll
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\System.ValueTuple.xml
+C:\Users\jocal\Desktop\AtiendelosDestktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.login.resources
+E:\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.exe.config
+E:\AtiendelosDestktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.exe
+E:\AtiendelosDestktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.pdb
+E:\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.exe
+E:\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.pdb
+E:\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\Npgsql.dll
+E:\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\System.ValueTuple.dll
+E:\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\Npgsql.pdb
+E:\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\Npgsql.xml
+E:\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\AtiendelosDestktop\AtiendelosDestktop\bin\Debug\System.ValueTuple.xml
+E:\AtiendelosDestktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.csprojResolveAssemblyReference.cache
+E:\AtiendelosDestktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.login.resources
+E:\AtiendelosDestktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.Properties.Resources.resources
+E:\AtiendelosDestktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.csproj.GenerateResource.Cache
+E:\AtiendelosDestktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmMenu.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.exe.config
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.exe
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.pdb
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Npgsql.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.ValueTuple.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Npgsql.pdb
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Npgsql.xml
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.ValueTuple.xml
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmMenu.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.reportes.Ventas.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.login.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.Properties.Resources.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.csproj.GenerateResource.Cache
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\RdlCompile.cache
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\RdlCompile.compiled
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.exe
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.pdb
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.frmReportes.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.csprojResolveAssemblyReference.cache
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmPortada.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.reportes.frmGastos.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.reportes.frmCorteInventario.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmCategorias.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmError.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmExclamacion.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmInformacion.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmSuccess.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.frmAvisoPregunta.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmQuestion.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmProductos.resources
+C:\Users\i7\Documents\PROYECTO PENSIONES\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmInventarios.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.exe.config
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.exe
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.pdb
+E:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.exe
+E:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.pdb
+E:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Npgsql.dll
+E:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.ValueTuple.dll
+E:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Npgsql.pdb
+E:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Npgsql.xml
+E:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.ValueTuple.xml
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.csprojResolveAssemblyReference.cache
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmCategorias.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmInventarios.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmMenu.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmPortada.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmProductos.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.reportes.frmCorteInventario.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.reportes.frmGastos.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.reportes.Ventas.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmError.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmExclamacion.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmInformacion.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmQuestion.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmSuccess.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.frmAvisoPregunta.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.frmReportes.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.login.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.Properties.Resources.resources
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.csproj.GenerateResource.Cache
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\RdlCompile.cache
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\RdlCompile.compiled
+G:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.exe.config
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.exe
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.pdb
+G:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.exe
+G:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\AtiendelosDestktop.pdb
+G:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Npgsql.dll
+G:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.ValueTuple.dll
+G:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Npgsql.pdb
+G:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\Npgsql.xml
+G:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\AtiendelosDesktop\AtiendelosDestktop\bin\Debug\System.ValueTuple.xml
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.csprojResolveAssemblyReference.cache
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmCategorias.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmInventarios.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmMenu.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmPortada.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.frmProductos.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.reportes.frmCorteInventario.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.reportes.frmGastos.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.reportes.Ventas.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmError.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmExclamacion.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmInformacion.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmQuestion.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.forms.frmSuccess.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.frmAvisoPregunta.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.herramientas.frmReportes.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.login.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.Properties.Resources.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.csproj.GenerateResource.Cache
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\RdlCompile.cache
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\RdlCompile.compiled
+E:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.catalogos.frmCatProductos.resources
+G:\AtiendelosDesktop\AtiendelosDestktop\obj\Debug\AtiendelosDestktop.forms.catalogos.frmCatProductos.resources
